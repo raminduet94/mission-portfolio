@@ -1,0 +1,84 @@
+body{
+    margin: 0;
+    
+}
+section{
+margin: 100px 100px;
+
+}
+.flexible{
+    display: flex;
+    margin-bottom: 100px;
+}
+.width-half{
+    width:50%;
+    padding-left: 1%;
+}
+.width-half img{
+    width: 80%;
+}
+h1{
+    margin: 0;
+}
+.click-button{
+
+    color: white;
+    text-decoration: none;
+    background-color: black;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.develop-background{
+    background-image: url(images/shapes/shape-1.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: 300px 300px;
+   
+}
+.global-background{
+    background-image: url(images/shapes/shape-1.png);
+    
+    background-repeat: no-repeat;
+    background-size: 200px 200px;
+    background-position: 1050px 250px;
+}
+
+
+.mission-area{
+    width: 33.33%;
+    border-radius: 40px;
+    padding: 20px;
+    margin-left: 10px;
+}
+.mission-area img{
+width: 100px;
+height: auto;
+
+}
+
+#mission-one{
+    background-color: tomato;
+}
+#mission-two{
+    background-color:violet;
+}
+#mission-three{
+    background-color:springgreen;
+}
+
+#mission-heading{
+    text-align: center;
+    margin-bottom: 50px;
+}
+#profile{
+    text-align: center;
+    margin-bottom: 50px;
+
+}
+.footer{
+    text-align: center;
+    background-color: aquamarine;
+    padding: 40px 0;
+    
+    
+}
